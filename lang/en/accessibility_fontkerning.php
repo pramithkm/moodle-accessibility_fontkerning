@@ -25,3 +25,4 @@
 $string['pluginname'] = 'Font Kerning';
 $string['turnoffkerning'] = 'Turn off';
 $string['turnonkerning'] = 'Turn on';
+$string['privacy:metadata'] = 'The plugin does not store any personal data.';

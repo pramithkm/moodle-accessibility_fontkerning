@@ -25,3 +25,4 @@
 $string['pluginname'] = 'フォントカーニング';
 $string['turnoffkerning'] = 'なし';
 $string['turnonkerning'] = 'あり';
+$string['privacy:metadata'] = 'このプラグインは個人データを一切保存しません。';
